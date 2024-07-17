@@ -2,26 +2,27 @@
 
 ![reboot](https://media1.tenor.com/m/WqnSWR3Ir3QAAAAC/reboot-enzo.gif)
 
-Salutation visiteur ! Bienvenue sur mon profile Github.
+Salutation visiteur !
 
 ## /profile
 
 ### 💻 .a_propos
 
-Je suis Richard et je suis un développeur atypique, passionné et autodidacte.
+Mon nom est Richard, je suis un développeur atypique, passionné et autodidacte.
 
 ### 🔧 .outils
 
-Quelques-uns de mes outils préférés du moment :
+Voici quelques-un de mes outils préféres :
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-black?logo=crystal)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefox-browser&logoColor=white)
 
 ### 🎯 .objectifs
@@ -35,5 +36,6 @@ Quelques-uns de mes outils préférés du moment :
 
 - Les jeux vidéo
 - La musique
-- Les chats !
+- Les chats
 
+![cat_gamer](https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif)
