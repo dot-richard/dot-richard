@@ -15,7 +15,7 @@ Je suis Richard et je suis un développeur atypique, passionné et autodidacte.
 Quelques-uns de mes outils préférés du moment :
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
-![Crystal](https://img.shields.io/badge/Crystal-0.36.1-black?logo=crystal)
+![Crystal](https://img.shields.io/badge/Crystal-black?logo=crystal)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
