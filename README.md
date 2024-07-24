@@ -38,4 +38,3 @@ Voici quelques-un de mes outils préféres :
 - La musique
 - Les chats
 
-![cat_gamer](https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif)
